@@ -6,7 +6,9 @@ Raspberry Pi: Automatically send it's IP address to your samrtphone whenever it 
 树莓派：系统启动时自动推送IP地址到智能手机
 
 # 在Instapush上建立推送服务，并安装移动app
+
 要处理推送通知，我使用了一个名为Instapush的免费推送服务。Instapush在iOS和Android上有免费的app，而且这个平台上也有一个易于使用的REST API供软件开发者使用。
+
 1. 首先，在[https://instapush.im/](https://instapush.im/)注册并登陆；
 2. 下载移动app；
 3. 登陆到app上，使用你在网站上注册的账户即可；
